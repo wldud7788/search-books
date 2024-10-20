@@ -24,9 +24,12 @@
 <div><img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=Vercel&logoColor=white"></div>
 
 ## 🔥 페이지별 기능 구현
-메인페이지
-![스크린샷 2024-10-21 오전 2 09 25](https://github.com/user-attachments/assets/96143456-a282-4667-b138-ecd74b13a9bd)
-검색 페이지
-![스크린샷 2024-10-21 오전 2 09 43](https://github.com/user-attachments/assets/f1cc340b-0877-408a-b4d6-9ce7bdd6aaf8)
-디테일 페이지
-![스크린샷 2024-10-21 오전 2 10 03](https://github.com/user-attachments/assets/8ec27283-654c-4cea-b856-463e6ac02c1c)
+### - 메인페이지
+<img>![스크린샷 2024-10-21 오전 2 09 25](https://github.com/user-attachments/assets/96143456-a282-4667-b138-ecd74b13a9bd)</img>
+</br></br></br>
+### - 검색 페이지
+<img>![스크린샷 2024-10-21 오전 2 09 43](https://github.com/user-attachments/assets/f1cc340b-0877-408a-b4d6-9ce7bdd6aaf8)</img>
+</br></br></br>
+### - 디테일 페이지
+<img>![스크린샷 2024-10-21 오전 2 10 03](https://github.com/user-attachments/assets/8ec27283-654c-4cea-b856-463e6ac02c1c)</img>
+</br></br></br>
